@@ -1,4 +1,4 @@
-# digit-bot
+# Handwritten Digit Recognition System
 
 **Course:** HDD5040 Foundations of AI and ML
 **Project:** Intelligent Character Recognition (Handwritten Digits)
